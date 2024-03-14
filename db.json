@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "another title",
+      "body": "Angular"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "body": "Angular"
+    },
+    {
+      "id": "3",
+      "title": "another title",
+      "body": "Angular"
+    },
+    {
+      "id": "4",
+      "title": "another title",
+      "body": "Angular"
+    },
+    {
+      "title": "new Two",
+      "body": "angular",
+      "id": "486f"
+    }
+  ]
+}
